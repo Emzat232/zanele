@@ -4,6 +4,19 @@ body {
           
 html {background: rgb(255, 20, 247)}
 
+a {display: inline-block;
+    content-align: center;
+      font-size: 16px;
+      color: white;
+      background-color: rgb(255, 156, 252);
+      border-width: 2px ;
+      border-radius: 10px;
+      text-decoration: none;
+      text-align: center;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+  		font-family: verdana}
+
 .p {background-color: rgb(255, 156, 252);
 text-align: center;
 font-weight: bold;
